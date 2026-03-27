@@ -25,6 +25,6 @@ Please let me know if there's anything to add, or anything that should be correc
 </ul>
 {% endif %}
 
-## Contact
+## Contact 📧
 
 If you have any information that'd be helpful to get onto this site, or if you want to correct anything on here, please <a href="mailto:info@beaverdamfield.com">let me know</a>!
