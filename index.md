@@ -12,8 +12,6 @@ Many people weren't aware of this, so I decided to make a website that'd have so
 
 Please let me know if there's anything to add, or anything that should be corrected!
 
-email: blah
-
 ## Latest Posts
 
 {% if site.posts and site.posts.size > 0 %}
@@ -26,3 +24,7 @@ email: blah
 	{% endfor %}
 </ul>
 {% endif %}
+
+## Contact
+
+If you have any information that'd be helpful to get onto this site, or if you want to correct anything on here, please <a href="mailto:info@beaverdamfield.com">let me know</a>!
