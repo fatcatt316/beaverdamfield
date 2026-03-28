@@ -31,18 +31,20 @@ permalink: /:title
 
 # Build settings
 remote_theme: pages-themes/dinky@v0.2.0
-theme: pages-themes/dinky@v0.2.0
+# theme: pages-themes/dinky@v0.2.0
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
 
 paginate: 5
 
-header_pages:
-  - datadump.md
+# header_pages:
+#   - datadump.md
   # - title: "YOLO"
   #   url: datadump.md
   # - resume/index.html
+
+excerpt_separator: "<!--excerpt-->"
 
 # Exclude from processing.
 # The following items will not be processed, by default.

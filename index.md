@@ -12,6 +12,8 @@ Many people weren't aware of this, so I decided to make a website that'd have so
 
 Please let me know if there's anything to add, or anything that should be corrected!
 
+<p><em>Note: This website is not affiliated with the <a href="https://beaverdamvalleyna.org/">Beaverdam Valley Neighborhood Association</a></em></p>
+
 ## Latest Posts
 
 {% if site.posts and site.posts.size > 0 %}
